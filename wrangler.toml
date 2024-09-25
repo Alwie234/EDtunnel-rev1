@@ -16,6 +16,9 @@ custom_domain = true
 [[routes]]
 pattern = "img.email3.vidio.com.gcloud.mosyaf.us.kg"
 custom_domain = true
+[[routes]]
+pattern = "quiz.int.vidio.com.gcloud.mosyaf.us.kg"
+custom_domain = true
 [vars]
 # UUID = "4353e26d-98dd-408e-a7f4-b2c4e35e1e10"
 # PROXYIP = "35.219.15.90"
